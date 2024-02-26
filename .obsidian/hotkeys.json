@@ -1,0 +1,18 @@
+{
+  "waka_time_box:refresh-today": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "waka_time_box:refresh-yesterday": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ]
+}

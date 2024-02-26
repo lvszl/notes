@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "d18eeff8c6feb848",
+    "type": "split",
+    "children": [
+      {
+        "id": "78f3ed06e5872375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d12474a27e61916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "代码笔记/python/python工程结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc2eae2750d1e4c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "232dcac9072d706d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78460ec9180824f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9a77c9470ea6f3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e8ebaaa0313f811",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4c944dd1761e7d0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b403c16db54efe71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f81a0313d497720",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "代码笔记/python/python工程结构.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a07c21d40c31d4c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "代码笔记/python/python工程结构.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20acc43cec3ab29b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58cea129fa8a1165",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "代码笔记/python/python工程结构.md"
+              }
+            }
+          },
+          {
+            "id": "355c9697fadfd858",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "78460ec9180824f0",
+  "lastOpenFiles": [
+    "课程笔记/数据库系统",
+    "课程笔记/计算机体系结构",
+    "课程笔记/信息安全导论",
+    "课程笔记",
+    "reme/2024/2月/2024-02-22.md",
+    "2024-02-26.md",
+    "reme/2024/2月/2024-02-20.md",
+    "reme/2024/2月/2024-02-21.md",
+    "reme/2024/2月/2024-02-24.md",
+    "reme/2024/2月/2024-02-23.md",
+    "zpng/062ac6221c2cd388c8c1c92ac3a3420.jpg",
+    "zpng/Pasted image 20240224102540.png",
+    "zpng/Pasted image 20240224102446.png",
+    "阅读/唐吉坷德.md",
+    "zpng/c77edb75f291c1fd17d06ea6bc59551.jpg",
+    "阅读/异能研究所.md",
+    "代码笔记/python/python工程结构.md",
+    "阅读",
+    "zpng/Pasted image 20240222224000.png",
+    "zpng/cb821ebf80272a26512ab09a016ef35.jpg",
+    "zpng/Pasted image 20240221232123.png",
+    "zpng/Pasted image 20240221232116.png",
+    "zpng/Pasted image 20240221231847.png",
+    "奇怪的知识/未命名.md",
+    "zpng/Pasted image 20240220235524.png",
+    "zpng",
+    "代码笔记/python",
+    "奇怪的知识/奥伯斯佯谬.md",
+    "代码笔记",
+    "奇怪的知识",
+    "reme",
+    "2024-02-20.md",
+    "Welcome.md",
+    "2024/2月/20日2月2024年.md",
+    "reme/2024/2月"
+  ]
+}
